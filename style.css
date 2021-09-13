@@ -1,0 +1,176 @@
+html {
+  padding: 0;
+}
+
+body {
+  background: #fafafa;
+  width: 100vw;
+  overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+.box {
+  width: 350px;
+  height: 366.8px;
+  background: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4.31vh;
+  border: 0.5px solid #dbdbdb;
+  padding: 10px 0px 0px 0px;
+  margin-top: 34px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.box2 {
+  height: 62.6px;
+  width: 350px;
+  background: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5px solid #dbdbdb;
+  vertical-align: middle;
+  text-align: center;
+}
+.box3 {
+  height: 100.8px;
+  width: 350px;
+
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  vertical-align: middle;
+  margin-top: 6.5px;
+  text-align: center;
+  margin-bottom: 44px;
+}
+
+.logo {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  padding-top: 22px;
+  padding-bottom: 8px;
+}
+.form {
+  height: 260.8px;
+  width: 348px;
+}
+.form-i {
+  margin: 24px 0px 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.div-i {
+  width: 268px;
+  height: 37px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6px;
+  border: 0.3px solid #dbdbdb;
+  border-radius: 2.7px;
+}
+.div-b {
+  width: 268px;
+  height: 38px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6px;
+}
+.login {
+  width: 268px;
+  height: 29.6px;
+  border-radius: 4px;
+  border: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  color: white;
+  background: #0095f6;
+  font-size: 14px;
+  margin-top: 8px;
+}
+.ip {
+  border-radius: 2.7px;
+  width: 258px;
+  border: none;
+  height: 35px;
+  background: #fafafa;
+}
+.ip::-webkit-input-placeholder {
+  font-size: 12px;
+  color: rgb(139, 139, 139);
+}
+
+.ip::placeholder {
+  color: rgbrgb(139, 139, 139);
+  opacity: 1; /* Firefox */
+}
+
+.ip:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: rgb(139, 139, 139);
+}
+
+.ip::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: rgb(139, 139, 139);
+}
+.div-or {
+  height: 14.4px;
+  width: 268px;
+  padding-top: 9px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #9b9b9b;
+
+  text-align: center;
+  font-size: 13px;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+.applogo {
+  height: 70px;
+  width: 100%;
+  margin-top: 18.5px;
+}
+.logoapp {
+  height: 40px;
+  width: 136px;
+  margin: 0;
+}
+footer {
+  background: #fafafa;
+  text-align: center;
+  height: 109.2px;
+  width: 100%;
+  font-size: 12px;
+  color: #8e8e8e;
+  margin-top: -15px;
+}
+
+.footer-a {
+  font-size: 12px;
+  color: #8e8e8e;
+  margin-left: 13.5px;
+  font-family: "Segoe UI", sans-serif;
+
+  font-weight: 400;
+}
+.lang {
+  font-size: 12px;
+  color: #8e8e8e;
+  font-family: "Segoe UI", sans-serif;
+  border: none;
+  width: 65px;
+}
